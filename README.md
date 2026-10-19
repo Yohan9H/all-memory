@@ -6,7 +6,7 @@ Base de connaissances personnelle : un cours Markdown par concept, rangé par th
 Depuis **n'importe quel projet**, dans Claude Code :
 
 ```
-/cours le handshake TCP
+/cours 'description'
 ```
 
 ou simplement :
